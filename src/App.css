@@ -13,6 +13,13 @@
   }
 }
 
+.btn {
+  border: none;
+  background-color: #61dafb;
+  border-radius: 5px;
+  font-size: xx-large;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -32,6 +39,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
