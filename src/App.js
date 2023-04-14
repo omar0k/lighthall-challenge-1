@@ -18,7 +18,7 @@ function App() {
       <button className="btn" onClick={incrementCount}>
         Click me!
       </button>
-      <h2 className="header">
+      <h2 style={{ color: "white" }}>
         You clicked <span style={{ color: "red" }}>{count}</span> times.
       </h2>
     </div>
